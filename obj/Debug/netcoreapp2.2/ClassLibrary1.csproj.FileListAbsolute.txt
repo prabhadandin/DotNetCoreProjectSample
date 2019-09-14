@@ -1,0 +1,14 @@
+G:\IC_Projects\NetCoreProjects\ClassLibrary1\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+G:\IC_Projects\NetCoreProjects\ClassLibrary1\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+G:\IC_Projects\NetCoreProjects\ClassLibrary1\bin\Debug\netcoreapp2.2\nunit.engine.dll
+G:\IC_Projects\NetCoreProjects\ClassLibrary1\bin\Debug\netcoreapp2.2\nunit.engine.api.dll
+G:\IC_Projects\NetCoreProjects\ClassLibrary1\bin\Debug\netcoreapp2.2\ClassLibrary1.deps.json
+G:\IC_Projects\NetCoreProjects\ClassLibrary1\bin\Debug\netcoreapp2.2\ClassLibrary1.runtimeconfig.json
+G:\IC_Projects\NetCoreProjects\ClassLibrary1\bin\Debug\netcoreapp2.2\ClassLibrary1.runtimeconfig.dev.json
+G:\IC_Projects\NetCoreProjects\ClassLibrary1\bin\Debug\netcoreapp2.2\ClassLibrary1.dll
+G:\IC_Projects\NetCoreProjects\ClassLibrary1\bin\Debug\netcoreapp2.2\ClassLibrary1.pdb
+G:\IC_Projects\NetCoreProjects\ClassLibrary1\obj\Debug\netcoreapp2.2\ClassLibrary1.csproj.CoreCompileInputs.cache
+G:\IC_Projects\NetCoreProjects\ClassLibrary1\obj\Debug\netcoreapp2.2\ClassLibrary1.AssemblyInfoInputs.cache
+G:\IC_Projects\NetCoreProjects\ClassLibrary1\obj\Debug\netcoreapp2.2\ClassLibrary1.AssemblyInfo.cs
+G:\IC_Projects\NetCoreProjects\ClassLibrary1\obj\Debug\netcoreapp2.2\ClassLibrary1.dll
+G:\IC_Projects\NetCoreProjects\ClassLibrary1\obj\Debug\netcoreapp2.2\ClassLibrary1.pdb
